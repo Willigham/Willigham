@@ -1,7 +1,7 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me chamo <b>Willigham</b>, militar da <i>Força Aérea Brasileira</i> com o sonho de se tornar <i>Programador</i> !😁 
+  Olá, me chamo <b>Willigham</b>, militar da <i>Força Aérea Brasileira</i> com o sonho de se tornar <i>Programador</i> !😁 <br>
   Sem mais trocadilhos irei contar um pouco sobre mim.<br>
   Um jovem acadêmico de <strong>Sistemas da Informação</strong>, focado na área de Front-End. Atualmente acumulo conhecimento em Lógica de Programação, Java Básico, Git e GitHub. 📚
 </p>
