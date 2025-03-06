@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá, me chamo <b>Willigham</b>, militar da <i>Força Aérea Brasileira</i> com o sonho de se tornar <i>Programador</i> !😁 <br>
   Sem mais trocadilhos irei contar um pouco sobre mim.<br>
-  Um jovem acadêmico de <strong>Sistemas da Informação</strong>, focado na área de Front-End. Atualmente acumulo conhecimento em Lógica de Programação, Java Básico, Git e GitHub. 📚
+  Um jovem acadêmico de <strong>Sistemas da Informação</strong>, focado na área de Front-End. Atualmente acumulo conhecimento em Lógica de Programação, Versionamento de Códigos, Java Básico, Git e GitHub. 📚
 </p>
 
 <p align="left">
