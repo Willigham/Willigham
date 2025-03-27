@@ -1,4 +1,4 @@
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="250px" max-width="250px" width="250px" align="right">
 
 <p align="left"> 
   Olá, me chamo <b>Willigham</b>, militar da <i>Força Aérea Brasileira</i> apaixonado pela <i>Programação</i> !😁 <br>
