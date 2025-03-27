@@ -1,21 +1,9 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me chamo <b>Willigham</b>, militar da <i>Força Aérea Brasileira</i> com o sonho de se tornar <i>Programador</i> !😁 <br>
+  Olá, me chamo <b>Willigham</b>, militar da <i>Força Aérea Brasileira</i> apaixonado pela <i>Programação</i> !😁 <br>
   Sem mais trocadilhos irei contar um pouco sobre mim.<br>
-  Um jovem acadêmico de <strong>Sistemas da Informação</strong>, focado na área de Front-End. Atualmente acumulo conhecimento em Lógica de Programação, Versionamento de Códigos, Java Básico, Git e GitHub. 📚
-</p>
-
-<p align="left">
-  <h3>💻 Por que a Tecnologia?</h3>
-  <p>Acretido que posso impactar as pessoas com a tecnologia. Sempre fui apaixonado por esta área e em tudo que fiz até agora, penso em ideias de melhoria com o uso da tecnologia. </p>
-</p>
-
-<p align="left">
-   <h3>🚀 Por que front-end?</h3>
-  <p>
-    Sou uma pessoa muito visual e me agrada muito transformar código em intefaces que seja incrivelmente intuitiva e acessivel. É onde o usuário final vai acessar.
-  </p>
+  Um jovem acadêmico de <strong>Sistemas da Informação</strong>, focado na área de Back-End. Atualmente acumulo conhecimento em Java, Python, Git e GitHub. 📚
 </p>
 
 <p align="left">
